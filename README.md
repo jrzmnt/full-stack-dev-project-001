@@ -13,7 +13,7 @@ Criar uma página informativa e responsiva apresentando um local turístico, exp
 
 ## 📸 Preview
 
-![Screenshot do projeto](./assets/preview.png)
+![Screenshot do projeto](./assets/preview2.png)
 
 ---
 
